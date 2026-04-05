@@ -1,1 +1,4 @@
-print("hello Aarish you done so much just complete this jenking shit than you just need to leaerrn kubernets and than aws and than azure and than you can say i am a dvops ")
+x = 10
+y = 20
+
+print(x + y)
